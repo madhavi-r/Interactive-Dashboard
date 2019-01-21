@@ -15,4 +15,4 @@ Using Plotly.js, to build interactive charts for the dashboard.
 
 Step 2 - Heroku
   
-  Deploy Flask app to Heroku.
+  Deployed Flask app to Heroku at the link: https://bb-bio-1234.herokuapp.com/
