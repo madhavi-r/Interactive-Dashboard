@@ -19,8 +19,7 @@ Using Plotly.js, to build interactive charts for the dashboard.
   * Create Gauge Chart  to plot the Weekly Washing Frequency obtained. 
   
   ![Weekly Washing Frequency Gauge](Images/gauge_chart.png)
-  
-  * Update all of the plots any time that a new sample is selected.
+   * Update all of the plots any time that a new sample is selected.
 
 Step 2 - Heroku
   
